@@ -20,7 +20,7 @@ function Home({ mouseHandle, setOpen, open }) {
         <section
           className="slider_section position-relative"
           data-aos="fade-up"
-          data-aos-delay="300"
+          data-aos-delay="100"
         >
           <div className="design-box">
             <img src="assets/images/design-1.png" alt="" />
@@ -304,24 +304,7 @@ function Home({ mouseHandle, setOpen, open }) {
 
 
 
-              <div className="carousel-item">
-                <div className="row">
-                  <div className="col-md-6 col-sm">
-                    <div className="detail_box">
-                      <h1>Ambika Jewellers</h1>
-                      <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
-                      </p>
-                    </div>
-                  </div>
-                  <div className="col-md-6 col-sm">
-                    <div className="img-box">
-                      <img src="assets/images/carousel-women-image-removebg-preview.png" alt="" />
-                    </div>
-                  </div>
-                </div>
-              </div>
+             
 
 
             </div>
