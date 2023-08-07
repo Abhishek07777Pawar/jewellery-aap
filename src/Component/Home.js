@@ -20,7 +20,7 @@ function Home({ mouseHandle, setOpen, open }) {
         <section
           className="slider_section position-relative"
           data-aos="fade-up"
-          data-aos-delay="100"
+          data-aos-delay="300"
         >
           <div className="design-box">
             <img src="assets/images/design-1.png" alt="" />
