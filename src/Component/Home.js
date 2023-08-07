@@ -296,12 +296,16 @@ function Home({ mouseHandle, setOpen, open }) {
               <p>Your jewellery<br />Is Insured</p>
             </div>
           </div>
+
+
           <div className="col-md-2 mb-3 col-sm">
             <div className="d-flex flex-column align-items-center">
               <img style={{ height: "100px" }} src="assets/images/logo5-image.png.png" alt="" />
               <p>Zero Deduction<br /> Gold Exchange</p>
             </div>
           </div>
+
+      
           <div className="col-md-2 mb-3 col-sm">
             <div className="d-flex flex-column align-items-center">
               <img style={{ height: "100px" }} src="assets/images/logo6-image.png" alt="" />
@@ -315,6 +319,14 @@ function Home({ mouseHandle, setOpen, open }) {
             <div className="d-flex flex-column align-items-center">
               <img style={{ height: "100px" }} src="assets/images/logo8-image.png" alt="" />
               <p>Tested & Certified<br />Diamonds</p>
+            </div>
+          </div>
+
+
+          <div className="col-md-2 mb-3 col-sm">
+            <div className="d-flex flex-column align-items-center">
+              <img style={{ height: "130px" }} src="assets/images/bis-hallmarked-logo.jpg" alt="" />
+             
             </div>
           </div>
 

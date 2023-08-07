@@ -49,7 +49,7 @@ export default function InfoSec() {
                   <img src="assets/images/mail.png" alt="" />
                   <span> omgovindraj@gmail.com </span>
                   <img src="assets/images/mail.png" alt="" />
-                  <span> ashoksen90@gmail.com </span>
+                  <span> ashoksenk90@gmail.com </span>
                 </a>
               </div>
             </div>
