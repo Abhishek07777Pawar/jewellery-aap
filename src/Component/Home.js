@@ -6,6 +6,8 @@ import Footer from './Footer';
 import Map from './Map';
 
 function Home({ mouseHandle, setOpen, open }) {
+  const text = `Wearing Beautiful Jewellery Makes Every Moment Great.       
+  Jewellery make person look beautiful.`
   return (
 
     <div className="container-fluid">
@@ -20,7 +22,7 @@ function Home({ mouseHandle, setOpen, open }) {
         <section
           className="slider_section position-relative"
           data-aos="fade-up"
-          data-aos-delay="300"
+          data-aos-delay="100"
         >
           <div className="design-box">
             <img src="assets/images/design-1.png" alt="" />
@@ -74,8 +76,7 @@ function Home({ mouseHandle, setOpen, open }) {
 
                       <h1>Ambika Jewellers</h1>
                       <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
+                        {text}
                       </p>
                       <div>
                         {/* <!-- <a href="">Shop Now</a> --> */}
@@ -97,8 +98,7 @@ function Home({ mouseHandle, setOpen, open }) {
 
                       <h1>Ambika Jewellers</h1>
                       <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
+                        {text}
                       </p>
                     </div>
                   </div>
@@ -118,8 +118,7 @@ function Home({ mouseHandle, setOpen, open }) {
 
                       <h1>Ambika Jewellers</h1>
                       <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
+                        {text}
                       </p>
                     </div>
                   </div>
@@ -137,8 +136,7 @@ function Home({ mouseHandle, setOpen, open }) {
                     <div className="detail_box">
                       <h1>Ambika Jewellers</h1>
                       <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
+                        {text}
                       </p>
                     </div>
                   </div>
@@ -157,8 +155,7 @@ function Home({ mouseHandle, setOpen, open }) {
                     <div className="detail_box">
                       <h1>Ambika Jewellers</h1>
                       <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
+                        {text}
                       </p>
                     </div>
                   </div>
@@ -169,19 +166,13 @@ function Home({ mouseHandle, setOpen, open }) {
                   </div>
                 </div>
               </div>
-
-
-
-
-
               <div className="carousel-item">
                 <div className="row">
                   <div className="col-md-6 col-sm">
                     <div className="detail_box">
                       <h1>Ambika Jewellers</h1>
                       <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
+                        {text}
                       </p>
                     </div>
                   </div>
@@ -192,16 +183,13 @@ function Home({ mouseHandle, setOpen, open }) {
                   </div>
                 </div>
               </div>
-
-
               <div className="carousel-item">
                 <div className="row">
                   <div className="col-md-6 col-sm">
                     <div className="detail_box">
                       <h1>Ambika Jewellers</h1>
                       <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
+                        {text}
                       </p>
                     </div>
                   </div>
@@ -213,17 +201,13 @@ function Home({ mouseHandle, setOpen, open }) {
                 </div>
               </div>
 
-
-
-
               <div className="carousel-item">
                 <div className="row">
                   <div className="col-md-6 col-sm">
                     <div className="detail_box">
                       <h1>Ambika Jewellers</h1>
                       <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
+                        {text}
                       </p>
                     </div>
                   </div>
@@ -234,100 +218,62 @@ function Home({ mouseHandle, setOpen, open }) {
                   </div>
                 </div>
               </div>
-
-
-
               <div className="carousel-item">
                 <div className="row">
-                  <div className="col-md-6 col-sm">
+                  <div className="col-md-6 ">
                     <div className="detail_box">
                       <h1>Ambika Jewellers</h1>
                       <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
+                        {text}
                       </p>
                     </div>
                   </div>
-                  <div className="col-md-6 col-sm">
+                  <div className="col-md-6 ">
                     <div className="img-box">
                       <img src="assets/images/carousel-necklace-image-removebg-preview.png" alt="" />
                     </div>
                   </div>
                 </div>
               </div>
-
-
-
-
-
               <div className="carousel-item">
                 <div className="row">
-                  <div className="col-md-6 col-sm">
+                  <div className="col-md-6 ">
                     <div className="detail_box">
                       <h1>Ambika Jewellers</h1>
                       <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
+                        {text}
                       </p>
                     </div>
                   </div>
-                  <div className="col-md-6 col-sm">
+                  <div className="col-md-6 ">
                     <div className="img-box">
                       <img src="assets/images/carousel-har3-image-removebg-preview.png" alt="" />
                     </div>
                   </div>
                 </div>
               </div>
-
-
-
-
               <div className="carousel-item">
                 <div className="row">
-                  <div className="col-md-6 col-sm">
+                  <div className="col-md-6 ">
                     <div className="detail_box">
                       <h1>Ambika Jewellers</h1>
                       <p>
-                        Wearing Beautiful Jewellery Makes Every Moment Great.”
-                        “Jewellery make person look beautiful.”
+                        {text}
                       </p>
                     </div>
                   </div>
-                  <div className="col-md-6 col-sm">
+                  <div className="col-md-6 ">
                     <div className="img-box">
                       <img src="assets/images/carousel-women1-image-removebg-preview.png" alt="" />
                     </div>
                   </div>
                 </div>
               </div>
-
-
-
-
-      
-
-
             </div>
           </div>
-
-
-
-
-
-
-
-
-
         </section>
         {/* <!-- end slider section --> */}
       </div>
-
-
-
-
-
-
-
       {/* -----logo start----------- */}
       <div className="container" >
         <div className="row">
@@ -343,9 +289,6 @@ function Home({ mouseHandle, setOpen, open }) {
               <p>Easy<br />Exchange</p>
             </div>
           </div>
-
-
-
           <div className="col-md-2 mb-3 col-sm">
             <div className="d-flex flex-column align-items-center">
               <img style={{ height: "100px" }} src="assets/images/logo3-image.png.png" alt="" />
