@@ -22,7 +22,7 @@ export default function Address() {
              <a href="https://goo.gl/maps/TGZKd6an8BPjm8Dq8"> 
               <img src="assets/images/location.png" alt="" />
               <span>
-                Address - Address - #28 Nehru road, Kullappa circle, Kammanahalli,
+                Address - Address - #27 Nehru road, Kullappa circle, Kammanahalli,
                 Banglore 84
               </span>
             </a>

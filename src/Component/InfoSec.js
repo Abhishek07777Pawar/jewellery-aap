@@ -21,7 +21,7 @@ export default function InfoSec() {
                 <a href="https://goo.gl/maps/TGZKd6an8BPjm8Dq8">
                   <img src="assets/images/location.png" alt="" />
                   <span>
-                    Address - Address - #27 Nehru road, Kullappa circle, Kammanahalli,
+                    Address - #27 Nehru road, Kullappa circle, Kammanahalli,
                     Banglore 84
                   </span>
                 </a>
@@ -36,7 +36,8 @@ export default function InfoSec() {
                   <span> +91 9449673500</span><br />
                   <img src="assets/images/phone.png" alt="" />
                   <span> +91 9738500095</span><br />
-                  <span> &nbsp; &nbsp; &nbsp; &nbsp; 080-25421353</span><br />
+                  <img src="assets/images/phone.png" alt="" />
+                  <span>  080-25421353</span><br />
 
 
                 </a>

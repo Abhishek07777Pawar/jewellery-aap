@@ -98,7 +98,8 @@ export default function About() {
               </div>
               <div className="col-md-2 col-sm">
                 <div className="img-box">
-                <img src="assets/images/My_project__1_-removebg-preview.png" alt="" className="img-fluid" />
+                {/* <img src="assets/images/My_project__1_-removebg-preview.png" alt="" className="img-fluid" /> */}
+                <img src="assets/images/My project (3).jpg" alt="" className="img-fluid" />
                 </div>
               </div>
               {/* <div className="col-md-2 mb-3 col-sm">

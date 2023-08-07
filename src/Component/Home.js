@@ -23,6 +23,7 @@ function Home({ mouseHandle, setOpen, open }) {
           className="slider_section position-relative"
           data-aos="fade-up"
           data-aos-delay="100"
+          // data-aos-duration="100"
         >
           <div className="design-box">
             <img src="assets/images/design-1.png" alt="" />
@@ -715,7 +716,7 @@ data-aos-delay="300">
                <a href="https://goo.gl/maps/TGZKd6an8BPjm8Dq8"> 
                 <img src="assets/images/location.png" alt="" />
                 <span>
-                  Address - Address - #28 Nehru road, Kullappa circle, Kammanahalli,
+                  Address - Address - #27 Nehru road, Kullappa circle, Kammanahalli,
                   Banglore 84
                 </span>
               </a>
