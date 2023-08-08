@@ -85,7 +85,7 @@ export default function About() {
                     
                    
                   {/* </div> */}
-              <div className="col-md-8 mb-3 col-sm">
+              <div className="col-md-6 mb-3 col-sm">
               <h2>Director</h2>  <h5> Ambika Jewellers Kammanahalli</h5>
                 <div className="detail-box">
               
@@ -96,13 +96,13 @@ export default function About() {
                   </div>
                 </div>
               </div>
-              <div className="col-md-2 col-sm">
+              <div className="col-md-3 mb-3 col-sm">
                 <div className="img-box">
                 {/* <img src="assets/images/My_project__1_-removebg-preview.png" alt="" className="img-fluid" /> */}
                 <img src="assets/images/My project (3).jpg" alt="" className="img-fluid" />
                 </div>
               </div>
-              <div className="col-md-2 mb-3 col-sm">
+              <div className="col-md-3 mb-3 col-sm">
                 <div className="img-box">
                 <img src="assets/images/My project (4).jpg" alt="" className="img-fluid" />
                 </div>
