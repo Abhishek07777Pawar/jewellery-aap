@@ -49,7 +49,7 @@ export default function About() {
           <div className="container" data-aos="fade-right"
             data-aos-delay="300">
             <div className="row">
-              <div className="col-md-8 mb-3 col-sm">
+              <div className="col-md-6 mb-3 col-sm">
                 <div className="detail-box">
                   
                     <h3><em>Founder</em></h3>
@@ -62,18 +62,24 @@ export default function About() {
                   </div>
                 </div>
               </div>
-              <div className="col-md-4 mb-3 col-sm">
+              <div className="col-md-3 mb-3 col-sm">
                 <div className="img-box">
-  
+               
+                  {/* <img src="assets/images/chairman-image (1).png" alt="" className="img-fluid" /> */}
+                  <img src="assets/images/dadaji-img.png" alt="" className="img-fluid" />
+                </div>
+              </div>
 
-                  <img src="assets/images/chairman-image (1).png" alt="" className="img-fluid" />
+              <div className="col-md-3 mb-3 col-sm">
+                <div className="img-box">
+                  <img src="assets/images/My project (5).jpg" alt="" className="img-fluid" />
                 </div>
               </div>
             </div>
           </div>
         </section>
 
-
+ 
         <section className="about_section layout_padding-bottom" >
           {/* <div className="design-box">
         <img src="assets/images/design-2.png" alt="" />
